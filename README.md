@@ -88,7 +88,7 @@ $IMG introduces skill-based, community-driven games with no house edge. Winners 
 
 $IMG prioritizes community ownership, fairness, and verifiable tokenomics.
 
-- 🌐 **Website:** [https://imgrewards.com](https://imgrewards.com)  
+- 🌐 **Website:** [https://imgprotocol.com](https://imgprotocol.com)  
 - 💼 **Infra Wallet:** Funds marketing, listings, and developer ops  
 - 🎁 **Rewards:** Automatic Solana payouts — no staking or claiming  
 - 🔥 **Burns:** Deflation powered by game participation  
