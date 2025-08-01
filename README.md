@@ -125,7 +125,7 @@ Estimate your passive earnings with our interactive tool:
 
 ## 📬 Contact & Resources
 
-- 💻 **Website:** [imgrewards.com](https://imgprotocol.com)  
+- 💻 **Website:** [imgprotocol.com](https://imgprotocol.com)  
 - 🐦 **Twitter/X:** [@imgprotocol](https://x.com/imgprotocol)  
 - 📊 **Rewards Calculator:** [imgprotocol.com](https://imgprotocol.com)  
 - 📄 **Smart Contract Explorer:** [Solana Explorer](https://solscan.io/account/znv3FZt2HFAvzYf5LxzVyryh3mBXWuTRRng25gEZAjh)
